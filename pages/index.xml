@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hochzeit Tetiana und Hannes</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Hochzeit Tetiana und Hannes</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test post</title>
+      <link>http://localhost:1313/pages/testpage/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/testpage/</guid>
+      <description>&#xA;Einladung </description>
+    </item>
+  </channel>
+</rss>

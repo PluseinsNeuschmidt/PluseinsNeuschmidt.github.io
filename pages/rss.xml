@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="de-DE"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/pages/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/pages/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>de-DE</language>
+        
+
+        
+            <lastBuildDate>2024-08-31 00:00:00 +0000 UTC</lastBuildDate>
+        
+
+        <link>http://localhost:1313/pages/</link>
+
+        
+
+        <title>Pages · </title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p><img src="img/drawing.png" alt="Alt"></p>
+<figure><img src="/pages/testpage/img/drawing.png"
+    alt="Das Bild von unserer Hochzeitseinladung"><figcaption>
+      <h4>Einladung</h4>
+    </figcaption>
+</figure>
+
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-08-31:/pages/testpage/</guid>
+
+                
+                    <link>http://localhost:1313/pages/testpage/</link>
+                
+
+                
+                    <pubDate>Sat, 31 Aug 2024 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>test post</title>
+                
+            </item>
+        
+    </channel>
+</rss>

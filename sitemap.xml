@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://neuschmidt.de/timeline/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/alsterdampfer/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/categories/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/darbietungen/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/geschenke/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/hochzeitszeitung/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/kleiderordnung/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/restaurant/</loc>
+  </url><url>
+    <loc>https://neuschmidt.de/tags/</loc>
+  </url>
 </urlset>
